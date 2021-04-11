@@ -57,6 +57,9 @@ html {
 }
 
 .box-a p,.box-b p,.box-c p{
+    letter-spacing:.4;
+    line-height:1.4;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0px 20px;
     padding-bottom: 40px;
 }
@@ -77,9 +80,10 @@ html {
 }
 
 .container h2{
+    font-family: Arial, Helvetica, sans-serif;
     padding: 7px 0;
     position: relative;
     top: -20px;
-    border: 2px solid black;
+    border: 3px solid white;
     text-align: right;
 }
